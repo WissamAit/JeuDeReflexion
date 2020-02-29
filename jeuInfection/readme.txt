@@ -1,11 +1,5 @@
 
-Noms des binômes:   
-***************************** 
-         
--AIT KHEDDACHE Wissam 21910758 
 
--SINI Lynda 21912416	
-    
 *****************************
 
 ** Pour lancer l'application:
